@@ -3,7 +3,7 @@
 Bioinformatics coursework analysing gene-expression data through the full RNA-seq workflow, using the Galaxy platform. Keele University, Omics Technologies.
 
 ## Overview
-This project runs the standard transcriptomics pipeline on a multi-gene RNA-seq dataset and interprets the biology behind the results — bridging computational analysis and clinical meaning.
+This project runs the standard transcriptomics pipeline on an 11-sample whole-transcriptome RNA-seq dataset (6 liver, 5 lung) and interprets the biology behind the results — bridging computational analysis and clinical meaning.
 
 ## Workflow
 1. **Quality control** — raw read QC.
